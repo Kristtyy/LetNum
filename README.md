@@ -1,8 +1,10 @@
 ## letnum
 https://pypi.org/project/letnum/
+
 letnum, a simple python library that is able to generate random letter and number combinations for you
 
 it is easy to use and only requires a 1 to 3 lines
+
 ## Installation
 
 pip install letnum
