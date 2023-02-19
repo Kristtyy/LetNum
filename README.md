@@ -11,7 +11,7 @@ pip install letnum
 
 ```py
 #How to Use
-from letnum install number, letter, letter_number
+from letnum import number, letter, letter_number
 
 #u only need the function name
 number()
